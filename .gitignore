@@ -1,0 +1,5 @@
+.env
+.history/
+labelbox_export/
+stroke_dataset/
+venv/

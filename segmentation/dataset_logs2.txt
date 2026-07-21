@@ -1,0 +1,1284 @@
+
+LOADING MASK:
+labelbox_export\composite_masks\15467_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [229 117  52]
+ [232 207 185]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(229), np.uint8(117), np.uint8(52))
+(np.uint8(232), np.uint8(207), np.uint8(185))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258810
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15477_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [139  19  97]
+ [158 203 199]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(139), np.uint8(19), np.uint8(97))
+(np.uint8(158), np.uint8(203), np.uint8(199))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 256336
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15481_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [156  88  27]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(156), np.uint8(88), np.uint8(27))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257036
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15483_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [109 137  74]
+ [190 241  24]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(109), np.uint8(137), np.uint8(74))
+(np.uint8(190), np.uint8(241), np.uint8(24))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 249796
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15486_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [115  54  64]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(115), np.uint8(54), np.uint8(64))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258281
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15498_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [219  46 201]
+ [226  83 147]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(219), np.uint8(46), np.uint8(201))
+(np.uint8(226), np.uint8(83), np.uint8(147))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 249491
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15507_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 31 123 209]
+ [ 59 202   1]
+ [103 153 223]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(31), np.uint8(123), np.uint8(209))
+(np.uint8(59), np.uint8(202), np.uint8(1))
+(np.uint8(103), np.uint8(153), np.uint8(223))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 245309
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15514_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [  8 149  24]
+ [149 102 192]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(8), np.uint8(149), np.uint8(24))
+(np.uint8(149), np.uint8(102), np.uint8(192))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 254858
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15520_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [243  86  23]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(243), np.uint8(86), np.uint8(23))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260194
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15525_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [144 139  61]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(144), np.uint8(139), np.uint8(61))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259400
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15527_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [156 232 211]
+ [165  66  75]
+ [221 175  61]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(156), np.uint8(232), np.uint8(211))
+(np.uint8(165), np.uint8(66), np.uint8(75))
+(np.uint8(221), np.uint8(175), np.uint8(61))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255585
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15547_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [235 136  22]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(235), np.uint8(136), np.uint8(22))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260299
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15551_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 84 133 251]
+ [168  28 153]
+ [234 242  59]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(84), np.uint8(133), np.uint8(251))
+(np.uint8(168), np.uint8(28), np.uint8(153))
+(np.uint8(234), np.uint8(242), np.uint8(59))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 250441
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15560_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [161  88 207]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(161), np.uint8(88), np.uint8(207))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255710
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15571_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [117 243   5]
+ [144 130  82]
+ [204 174  92]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(117), np.uint8(243), np.uint8(5))
+(np.uint8(144), np.uint8(130), np.uint8(82))
+(np.uint8(204), np.uint8(174), np.uint8(92))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 246941
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15588_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [178 172 204]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(178), np.uint8(172), np.uint8(204))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 253742
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15601_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 23 116  37]
+ [204  84 182]
+ [215 233 106]
+ [230 141 216]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(23), np.uint8(116), np.uint8(37))
+(np.uint8(204), np.uint8(84), np.uint8(182))
+(np.uint8(215), np.uint8(233), np.uint8(106))
+(np.uint8(230), np.uint8(141), np.uint8(216))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 243696
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15603_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 98  97 122]
+ [197 189 128]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(98), np.uint8(97), np.uint8(122))
+(np.uint8(197), np.uint8(189), np.uint8(128))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255573
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15610_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 16  69 202]
+ [ 43 238  76]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(16), np.uint8(69), np.uint8(202))
+(np.uint8(43), np.uint8(238), np.uint8(76))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259227
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15611_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 10  63 160]
+ [ 10 133  18]
+ [170 244  72]
+ [226 135  65]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(10), np.uint8(63), np.uint8(160))
+(np.uint8(10), np.uint8(133), np.uint8(18))
+(np.uint8(170), np.uint8(244), np.uint8(72))
+(np.uint8(226), np.uint8(135), np.uint8(65))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 249287
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15620_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 74 201  73]
+ [182  12  69]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(74), np.uint8(201), np.uint8(73))
+(np.uint8(182), np.uint8(12), np.uint8(69))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 243151
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15625_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 12  86 130]
+ [ 36 228 146]
+ [ 88 253 133]
+ [146  35 253]
+ [189  55  51]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(12), np.uint8(86), np.uint8(130))
+(np.uint8(36), np.uint8(228), np.uint8(146))
+(np.uint8(88), np.uint8(253), np.uint8(133))
+(np.uint8(146), np.uint8(35), np.uint8(253))
+(np.uint8(189), np.uint8(55), np.uint8(51))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 243193
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15626_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 42 161  65]
+ [157  10 127]
+ [185  82 137]
+ [236   9  40]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(42), np.uint8(161), np.uint8(65))
+(np.uint8(157), np.uint8(10), np.uint8(127))
+(np.uint8(185), np.uint8(82), np.uint8(137))
+(np.uint8(236), np.uint8(9), np.uint8(40))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 241473
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15628_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 48 106   3]
+ [ 78 218  99]
+ [ 94  49 224]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(48), np.uint8(106), np.uint8(3))
+(np.uint8(78), np.uint8(218), np.uint8(99))
+(np.uint8(94), np.uint8(49), np.uint8(224))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 237615
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15633_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[ 0  0  0]
+ [63 85 43]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(63), np.uint8(85), np.uint8(43))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260392
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15635_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [142 211  88]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(142), np.uint8(211), np.uint8(88))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258701
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15640_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [211 186 126]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(211), np.uint8(186), np.uint8(126))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259209
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15650_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [252  56 138]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(252), np.uint8(56), np.uint8(138))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 256450
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15665_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[ 0  0  0]
+ [39 76 43]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(39), np.uint8(76), np.uint8(43))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255707
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15672_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [231 209 171]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(231), np.uint8(209), np.uint8(171))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259983
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15674_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [  4 226   1]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(4), np.uint8(226), np.uint8(1))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255979
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15676_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 82 109  35]
+ [161 233  89]
+ [190  34 242]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(82), np.uint8(109), np.uint8(35))
+(np.uint8(161), np.uint8(233), np.uint8(89))
+(np.uint8(190), np.uint8(34), np.uint8(242))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 246318
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15677_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [141 126  91]
+ [168 180  81]
+ [173 101 196]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(141), np.uint8(126), np.uint8(91))
+(np.uint8(168), np.uint8(180), np.uint8(81))
+(np.uint8(173), np.uint8(101), np.uint8(196))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 249437
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15679_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [197 250  69]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(197), np.uint8(250), np.uint8(69))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257360
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15681_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[ 0  0  0]
+ [93 67  9]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(93), np.uint8(67), np.uint8(9))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259777
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15682_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 77  41 199]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(77), np.uint8(41), np.uint8(199))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 282679
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15683_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [  0 250  92]
+ [  4 207 183]
+ [ 61  95  32]
+ [112  18 141]
+ [119 167 132]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(0), np.uint8(250), np.uint8(92))
+(np.uint8(4), np.uint8(207), np.uint8(183))
+(np.uint8(61), np.uint8(95), np.uint8(32))
+(np.uint8(112), np.uint8(18), np.uint8(141))
+(np.uint8(119), np.uint8(167), np.uint8(132))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 243911
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15686_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [ 72 189  15]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(72), np.uint8(189), np.uint8(15))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258560
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+LOADING MASK:
+labelbox_export\composite_masks\15688_mask.png
+MODE: RGBA
+PIXEL: (0, 0, 0, 0)
+COLORS:
+[[  0   0   0]
+ [155  50 146]]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(155), np.uint8(50), np.uint8(146))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258245
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0

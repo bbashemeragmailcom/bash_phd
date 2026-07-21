@@ -1,0 +1,2926 @@
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(229), np.uint8(117), np.uint8(52))
+(np.uint8(232), np.uint8(207), np.uint8(185))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258810
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(139), np.uint8(19), np.uint8(97))
+(np.uint8(158), np.uint8(203), np.uint8(199))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 256336
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(156), np.uint8(88), np.uint8(27))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257036
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(109), np.uint8(137), np.uint8(74))
+(np.uint8(190), np.uint8(241), np.uint8(24))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 249796
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(115), np.uint8(54), np.uint8(64))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258281
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(219), np.uint8(46), np.uint8(201))
+(np.uint8(226), np.uint8(83), np.uint8(147))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 249491
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(31), np.uint8(123), np.uint8(209))
+(np.uint8(59), np.uint8(202), np.uint8(1))
+(np.uint8(103), np.uint8(153), np.uint8(223))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 245309
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(8), np.uint8(149), np.uint8(24))
+(np.uint8(149), np.uint8(102), np.uint8(192))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 254858
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(243), np.uint8(86), np.uint8(23))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260194
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(144), np.uint8(139), np.uint8(61))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259400
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(156), np.uint8(232), np.uint8(211))
+(np.uint8(165), np.uint8(66), np.uint8(75))
+(np.uint8(221), np.uint8(175), np.uint8(61))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255585
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(235), np.uint8(136), np.uint8(22))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260299
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(84), np.uint8(133), np.uint8(251))
+(np.uint8(168), np.uint8(28), np.uint8(153))
+(np.uint8(234), np.uint8(242), np.uint8(59))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 250441
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(161), np.uint8(88), np.uint8(207))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255710
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(117), np.uint8(243), np.uint8(5))
+(np.uint8(144), np.uint8(130), np.uint8(82))
+(np.uint8(204), np.uint8(174), np.uint8(92))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 246941
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(178), np.uint8(172), np.uint8(204))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 253742
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(23), np.uint8(116), np.uint8(37))
+(np.uint8(204), np.uint8(84), np.uint8(182))
+(np.uint8(215), np.uint8(233), np.uint8(106))
+(np.uint8(230), np.uint8(141), np.uint8(216))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 243696
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(98), np.uint8(97), np.uint8(122))
+(np.uint8(197), np.uint8(189), np.uint8(128))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255573
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(16), np.uint8(69), np.uint8(202))
+(np.uint8(43), np.uint8(238), np.uint8(76))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259227
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(10), np.uint8(63), np.uint8(160))
+(np.uint8(10), np.uint8(133), np.uint8(18))
+(np.uint8(170), np.uint8(244), np.uint8(72))
+(np.uint8(226), np.uint8(135), np.uint8(65))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 249287
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(74), np.uint8(201), np.uint8(73))
+(np.uint8(182), np.uint8(12), np.uint8(69))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 243151
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(12), np.uint8(86), np.uint8(130))
+(np.uint8(36), np.uint8(228), np.uint8(146))
+(np.uint8(88), np.uint8(253), np.uint8(133))
+(np.uint8(146), np.uint8(35), np.uint8(253))
+(np.uint8(189), np.uint8(55), np.uint8(51))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 243193
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(42), np.uint8(161), np.uint8(65))
+(np.uint8(157), np.uint8(10), np.uint8(127))
+(np.uint8(185), np.uint8(82), np.uint8(137))
+(np.uint8(236), np.uint8(9), np.uint8(40))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 241473
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(48), np.uint8(106), np.uint8(3))
+(np.uint8(78), np.uint8(218), np.uint8(99))
+(np.uint8(94), np.uint8(49), np.uint8(224))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 237615
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(63), np.uint8(85), np.uint8(43))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260392
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(142), np.uint8(211), np.uint8(88))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258701
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(211), np.uint8(186), np.uint8(126))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259209
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(252), np.uint8(56), np.uint8(138))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 256450
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(39), np.uint8(76), np.uint8(43))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255707
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(231), np.uint8(209), np.uint8(171))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259983
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(4), np.uint8(226), np.uint8(1))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255979
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(82), np.uint8(109), np.uint8(35))
+(np.uint8(161), np.uint8(233), np.uint8(89))
+(np.uint8(190), np.uint8(34), np.uint8(242))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 246318
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(141), np.uint8(126), np.uint8(91))
+(np.uint8(168), np.uint8(180), np.uint8(81))
+(np.uint8(173), np.uint8(101), np.uint8(196))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 249437
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(197), np.uint8(250), np.uint8(69))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257360
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(93), np.uint8(67), np.uint8(9))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259777
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(77), np.uint8(41), np.uint8(199))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 282679
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(0), np.uint8(250), np.uint8(92))
+(np.uint8(4), np.uint8(207), np.uint8(183))
+(np.uint8(61), np.uint8(95), np.uint8(32))
+(np.uint8(112), np.uint8(18), np.uint8(141))
+(np.uint8(119), np.uint8(167), np.uint8(132))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 243911
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(72), np.uint8(189), np.uint8(15))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258560
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(155), np.uint8(50), np.uint8(146))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258245
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(31), np.uint8(145), np.uint8(52))
+(np.uint8(197), np.uint8(170), np.uint8(243))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 251659
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(164), np.uint8(99), np.uint8(15))
+(np.uint8(185), np.uint8(229), np.uint8(105))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259178
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(90), np.uint8(100), np.uint8(32))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257167
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(151), np.uint8(233), np.uint8(109))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 252132
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(214), np.uint8(221), np.uint8(25))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260428
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(127), np.uint8(163), np.uint8(4))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260584
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(173), np.uint8(40), np.uint8(9))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260992
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(72), np.uint8(185), np.uint8(36))
+(np.uint8(213), np.uint8(162), np.uint8(81))
+(np.uint8(242), np.uint8(24), np.uint8(6))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 241818
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(40), np.uint8(170), np.uint8(73))
+(np.uint8(52), np.uint8(131), np.uint8(39))
+(np.uint8(63), np.uint8(77), np.uint8(159))
+(np.uint8(218), np.uint8(13), np.uint8(35))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 241225
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(26), np.uint8(167), np.uint8(71))
+(np.uint8(69), np.uint8(10), np.uint8(41))
+(np.uint8(137), np.uint8(41), np.uint8(103))
+(np.uint8(154), np.uint8(130), np.uint8(233))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 254952
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(174), np.uint8(36), np.uint8(152))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258699
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(157), np.uint8(26), np.uint8(11))
+(np.uint8(175), np.uint8(105), np.uint8(217))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258166
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(120), np.uint8(53), np.uint8(230))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258993
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(119), np.uint8(170), np.uint8(152))
+(np.uint8(120), np.uint8(106), np.uint8(99))
+(np.uint8(173), np.uint8(133), np.uint8(89))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 253174
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(136), np.uint8(5), np.uint8(6))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258551
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(221), np.uint8(42), np.uint8(112))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258655
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(52), np.uint8(188), np.uint8(35))
+(np.uint8(225), np.uint8(75), np.uint8(184))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259650
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(36), np.uint8(167), np.uint8(199))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260616
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(15), np.uint8(169), np.uint8(170))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255775
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(43), np.uint8(35), np.uint8(197))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257196
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(98), np.uint8(253), np.uint8(245))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260682
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(199), np.uint8(51), np.uint8(133))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259496
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(96), np.uint8(16), np.uint8(100))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 261165
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(61), np.uint8(1), np.uint8(15))
+(np.uint8(146), np.uint8(167), np.uint8(66))
+(np.uint8(191), np.uint8(132), np.uint8(149))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 256225
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(84), np.uint8(3), np.uint8(200))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258668
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(155), np.uint8(194), np.uint8(173))
+(np.uint8(245), np.uint8(35), np.uint8(226))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255450
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(157), np.uint8(195), np.uint8(152))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260063
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(32), np.uint8(196), np.uint8(76))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260156
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(61), np.uint8(222), np.uint8(63))
+(np.uint8(123), np.uint8(175), np.uint8(113))
+(np.uint8(217), np.uint8(57), np.uint8(26))
+(np.uint8(246), np.uint8(151), np.uint8(208))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 248843
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(251), np.uint8(66), np.uint8(232))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255798
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(92), np.uint8(246), np.uint8(144))
+(np.uint8(240), np.uint8(155), np.uint8(165))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259888
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(131), np.uint8(59), np.uint8(29))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260776
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(61), np.uint8(121), np.uint8(48))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260407
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(154), np.uint8(127), np.uint8(92))
+(np.uint8(239), np.uint8(164), np.uint8(8))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257662
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(74), np.uint8(193), np.uint8(202))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 248766
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(39), np.uint8(158), np.uint8(139))
+(np.uint8(130), np.uint8(196), np.uint8(129))
+(np.uint8(202), np.uint8(160), np.uint8(100))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 242309
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(156), np.uint8(70), np.uint8(56))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257080
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(31), np.uint8(146), np.uint8(83))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259581
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(62), np.uint8(202), np.uint8(108))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 261276
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(54), np.uint8(136), np.uint8(220))
+(np.uint8(119), np.uint8(20), np.uint8(239))
+(np.uint8(130), np.uint8(99), np.uint8(189))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 250732
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(205), np.uint8(177), np.uint8(241))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260065
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(140), np.uint8(119), np.uint8(236))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258152
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(56), np.uint8(247), np.uint8(243))
+(np.uint8(95), np.uint8(154), np.uint8(83))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 251956
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(244), np.uint8(194), np.uint8(11))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 261771
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(126), np.uint8(165), np.uint8(201))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259011
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(165), np.uint8(96), np.uint8(112))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260998
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(79), np.uint8(212), np.uint8(120))
+(np.uint8(149), np.uint8(211), np.uint8(6))
+(np.uint8(252), np.uint8(58), np.uint8(148))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 248280
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(107), np.uint8(211), np.uint8(132))
+(np.uint8(193), np.uint8(110), np.uint8(7))
+(np.uint8(235), np.uint8(143), np.uint8(19))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 233015
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(38), np.uint8(186), np.uint8(135))
+(np.uint8(102), np.uint8(121), np.uint8(11))
+(np.uint8(246), np.uint8(211), np.uint8(79))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260000
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(16), np.uint8(11), np.uint8(123))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259163
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(33), np.uint8(111), np.uint8(2))
+(np.uint8(71), np.uint8(44), np.uint8(96))
+(np.uint8(80), np.uint8(110), np.uint8(91))
+(np.uint8(211), np.uint8(167), np.uint8(132))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257077
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(104), np.uint8(103), np.uint8(99))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 261727
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(1), np.uint8(167), np.uint8(90))
+(np.uint8(100), np.uint8(36), np.uint8(210))
+(np.uint8(185), np.uint8(112), np.uint8(218))
+(np.uint8(200), np.uint8(132), np.uint8(149))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 253215
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(35), np.uint8(146), np.uint8(234))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260572
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(170), np.uint8(232), np.uint8(229))
+(np.uint8(205), np.uint8(212), np.uint8(113))
+(np.uint8(239), np.uint8(108), np.uint8(77))
+(np.uint8(241), np.uint8(46), np.uint8(186))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257713
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(12), np.uint8(191), np.uint8(247))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260380
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(47), np.uint8(37), np.uint8(178))
+(np.uint8(73), np.uint8(137), np.uint8(106))
+(np.uint8(103), np.uint8(127), np.uint8(93))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259714
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(188), np.uint8(156), np.uint8(252))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 256493
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(250), np.uint8(151), np.uint8(233))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 254969
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(146), np.uint8(123), np.uint8(240))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260037
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(16), np.uint8(137), np.uint8(22))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260170
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(52), np.uint8(152), np.uint8(202))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 261405
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(159), np.uint8(65), np.uint8(209))
+(np.uint8(199), np.uint8(167), np.uint8(247))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 258827
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(182), np.uint8(235), np.uint8(153))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259432
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(26), np.uint8(95), np.uint8(161))
+(np.uint8(108), np.uint8(169), np.uint8(169))
+(np.uint8(165), np.uint8(110), np.uint8(183))
+(np.uint8(218), np.uint8(95), np.uint8(196))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 252957
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(214), np.uint8(72), np.uint8(69))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259281
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(43), np.uint8(137), np.uint8(160))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257972
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(96), np.uint8(26), np.uint8(72))
+(np.uint8(119), np.uint8(2), np.uint8(65))
+(np.uint8(126), np.uint8(62), np.uint8(6))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 252854
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(36), np.uint8(215), np.uint8(93))
+(np.uint8(51), np.uint8(182), np.uint8(152))
+(np.uint8(52), np.uint8(111), np.uint8(168))
+(np.uint8(181), np.uint8(150), np.uint8(53))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 241704
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(179), np.uint8(188), np.uint8(18))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 261204
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(189), np.uint8(238), np.uint8(6))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 297845
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(84), np.uint8(121), np.uint8(164))
+(np.uint8(173), np.uint8(104), np.uint8(154))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 257344
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(82), np.uint8(241), np.uint8(38))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 256248
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(100), np.uint8(103), np.uint8(124))
+(np.uint8(164), np.uint8(163), np.uint8(242))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 255071
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(119), np.uint8(108), np.uint8(92))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 261661
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(7), np.uint8(171), np.uint8(215))
+(np.uint8(37), np.uint8(85), np.uint8(108))
+(np.uint8(79), np.uint8(158), np.uint8(80))
+(np.uint8(163), np.uint8(98), np.uint8(33))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 252766
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(64), np.uint8(196), np.uint8(93))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 261589
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(247), np.uint8(45), np.uint8(136))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 256295
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(81), np.uint8(203), np.uint8(54))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259597
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(89), np.uint8(11), np.uint8(169))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 294200
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(46), np.uint8(242), np.uint8(69))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 259594
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(0), np.uint8(153), np.uint8(86))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 260982
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(96), np.uint8(145), np.uint8(160))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 256267
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
+
+Mask colors detected:
+(np.uint8(0), np.uint8(0), np.uint8(0))
+(np.uint8(137), np.uint8(228), np.uint8(148))
+
+Mapping:
+(0, 0, 0) => class 0 pixels: 277686
+(129, 242, 126) => class 1 pixels: 0
+(209, 95, 224) => class 2 pixels: 0
+(55, 243, 44) => class 3 pixels: 0
+(54, 67, 77) => class 4 pixels: 0
+(117, 172, 102) => class 5 pixels: 0
+(212, 172, 188) => class 6 pixels: 0
+(95, 86, 86) => class 7 pixels: 0
+(143, 65, 64) => class 8 pixels: 0
+(36, 98, 28) => class 9 pixels: 0
+(210, 143, 56) => class 10 pixels: 0
+(107, 158, 56) => class 11 pixels: 0
+(206, 40, 247) => class 12 pixels: 0
+(208, 182, 189) => class 13 pixels: 0
+(200, 116, 214) => class 14 pixels: 0
+(93, 155, 201) => class 15 pixels: 0
+Semantic classes: [0]
