@@ -6,6 +6,9 @@ import requests
 
 from pathlib import Path
 
+import ssl
+import certifi
+
 import labelbox as lb
 from labelbox import StreamType
 
@@ -184,25 +187,41 @@ def download_mask(
     using the Labelbox API headers.
     """
 
-    request = urllib.request.Request(
+    # request = urllib.request.Request(
 
+    #     mask_url,
+
+    #     headers=client.headers
+
+    # )
+
+
+    # with urllib.request.urlopen(
+    #         request
+    # ) as response, open(
+    #         output_path,
+    #         "wb"
+    # ) as f:
+
+    #     f.write(
+    #         response.read()
+    #     )
+    """
+    Download an individual Labelbox object mask
+    using authenticated HTTPS requests.
+    """
+
+    response = requests.get(
         mask_url,
-
-        headers=client.headers
-
+        headers=client.headers,
+        timeout=120,
+        verify=certifi.where()
     )
 
+    response.raise_for_status()
 
-    with urllib.request.urlopen(
-            request
-    ) as response, open(
-            output_path,
-            "wb"
-    ) as f:
-
-        f.write(
-            response.read()
-        )
+    with open(output_path, "wb") as f:
+        f.write(response.content)
 
 
 # ==========================================================
@@ -524,6 +543,11 @@ def run_labelbox_export():
 
     }
 
+    # Export only completed annotations
+    filters = {
+        "workflow_status": "Done"
+    }
+
 
     logging.info(
         "Starting Labelbox export..."
@@ -531,11 +555,23 @@ def run_labelbox_export():
 
 
     export_task = project.export(
-        params=export_params
+        params=export_params,
+        filters=filters
     )
 
 
     export_task.wait_till_done()
+
+    # Check for export errors
+    if export_task.has_errors():
+        error_stream = export_task.get_buffered_stream(
+            stream_type=lb.StreamType.ERRORS
+        )
+
+        for error in error_stream:
+            logging.error(error.json)
+
+        raise RuntimeError("Labelbox export encountered errors.")
 
 
     stream = (
