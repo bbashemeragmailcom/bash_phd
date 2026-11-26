@@ -1,0 +1,43 @@
+{
+  "dataset": "/Users/bash/Documents/Phd code/bash_phd/labelbox_export_segmentation/bridge_preprocessed_baseline",
+  "mask_folder": "multilabel_masks",
+  "classes": 23,
+  "total_slices": 3998,
+  "total_patient_ids": 3998,
+  "training_slices": 2810,
+  "training_patient_ids": 2810,
+  "heldout_labels_inspected": false,
+  "zero_positive_classes": [],
+  "zero_confirmed_negative_classes": [
+    "acute_on_chronic_sdh",
+    "basal_ganglia_hemorrhage",
+    "cerebral_edema",
+    "chronic_sdh",
+    "cortical_involvement",
+    "hemorrhagic_transformation",
+    "hyperdense_artery_sign",
+    "intracerebral_hemorrhage",
+    "intraventricular_hemorrhage",
+    "ischemic_infarct",
+    "lacunar_infarcts",
+    "large_artery_atherosclerosis",
+    "large_lesion_1_3_mca_territory",
+    "large_vessel_occlusion",
+    "loss_insular_ribbon_sign",
+    "mass_effect",
+    "mca_territory",
+    "micro_calcifications",
+    "midline_shift",
+    "multiple_lesions",
+    "spontaneous_asdh",
+    "subarachnoid_extension",
+    "temporal_lobe_involvement"
+  ],
+  "supported_relationships": 63,
+  "thresholds": {
+    "rare_positive_slices": 30,
+    "small_area_percent": 0.5,
+    "minimum_joint_known": 20,
+    "minimum_both_positive": 5
+  }
+}

@@ -1,0 +1,24 @@
+biomarker,slices,positive,known,negative,unknown,foreground_pixels,positive_percent_known,unknown_percent,median_area_percent,observed_positive_patients,recommendation
+acute_on_chronic_sdh,2810,1,1,0,2809,8199,100.0,99.9644128113879,3.1276702880859375,1,Consider capped class-aware sampling and collect more positives; Review confirmed negative coverage; Review annotation completeness
+basal_ganglia_hemorrhage,2810,161,161,0,2649,489181,100.0,94.27046263345196,0.8907318115234375,161,Review confirmed negative coverage; Review annotation completeness
+cerebral_edema,2810,414,414,0,2396,3877058,100.0,85.26690391459076,2.1406173706054688,414,Review confirmed negative coverage; Review annotation completeness
+chronic_sdh,2810,1,1,0,2809,6100,100.0,99.9644128113879,2.32696533203125,1,Consider capped class-aware sampling and collect more positives; Review confirmed negative coverage; Review annotation completeness
+cortical_involvement,2810,421,421,0,2389,2407138,100.0,85.01779359430604,0.84075927734375,421,Review confirmed negative coverage; Review annotation completeness
+hemorrhagic_transformation,2810,253,253,0,2557,1501171,100.0,90.99644128113879,0.93841552734375,253,Review confirmed negative coverage; Review annotation completeness
+hyperdense_artery_sign,2810,25,25,0,2785,16659,100.0,99.11032028469751,0.2727508544921875,25,Consider capped class-aware sampling and collect more positives; Review confirmed negative coverage; Review annotation completeness; Test high-resolution / rare-positive patches
+intracerebral_hemorrhage,2810,654,654,0,2156,2612076,100.0,76.72597864768683,1.0143280029296875,654,Review confirmed negative coverage; Review annotation completeness
+intraventricular_hemorrhage,2810,370,370,0,2440,1247998,100.0,86.83274021352312,0.8657455444335938,370,Review confirmed negative coverage; Review annotation completeness
+ischemic_infarct,2810,1403,1403,0,1407,5080539,100.0,50.0711743772242,0.71868896484375,1403,Review confirmed negative coverage; Review annotation completeness
+lacunar_infarcts,2810,171,171,0,2639,145124,100.0,93.91459074733096,0.273895263671875,171,Review confirmed negative coverage; Review annotation completeness; Test high-resolution / rare-positive patches
+large_artery_atherosclerosis,2810,1,1,0,2809,630,100.0,99.9644128113879,0.240325927734375,1,Consider capped class-aware sampling and collect more positives; Review confirmed negative coverage; Review annotation completeness; Test high-resolution / rare-positive patches
+large_lesion_1_3_mca_territory,2810,188,188,0,2622,1950245,100.0,93.30960854092527,2.4463653564453125,188,Review confirmed negative coverage; Review annotation completeness
+large_vessel_occlusion,2810,554,554,0,2256,1695821,100.0,80.2846975088968,0.12969970703125,554,Review confirmed negative coverage; Review annotation completeness; Test high-resolution / rare-positive patches
+loss_insular_ribbon_sign,2810,12,12,0,2798,58370,100.0,99.5729537366548,1.4783859252929688,12,Consider capped class-aware sampling and collect more positives; Review confirmed negative coverage; Review annotation completeness
+mass_effect,2810,181,181,0,2629,601299,100.0,93.55871886120997,1.082611083984375,181,Review confirmed negative coverage; Review annotation completeness
+mca_territory,2810,473,473,0,2337,914304,100.0,83.16725978647686,0.11749267578125,473,Review confirmed negative coverage; Review annotation completeness; Test high-resolution / rare-positive patches
+micro_calcifications,2810,1,1,0,2809,1042,100.0,99.9644128113879,0.397491455078125,1,Consider capped class-aware sampling and collect more positives; Review confirmed negative coverage; Review annotation completeness; Test high-resolution / rare-positive patches
+midline_shift,2810,165,165,0,2645,352609,100.0,94.12811387900356,0.7015228271484375,165,Review confirmed negative coverage; Review annotation completeness
+multiple_lesions,2810,157,157,0,2653,630413,100.0,94.41281138790035,0.7907867431640625,157,Review confirmed negative coverage; Review annotation completeness
+spontaneous_asdh,2810,17,17,0,2793,71831,100.0,99.3950177935943,1.4537811279296875,17,Consider capped class-aware sampling and collect more positives; Review confirmed negative coverage; Review annotation completeness
+subarachnoid_extension,2810,159,159,0,2651,512354,100.0,94.34163701067617,0.9685516357421875,159,Review confirmed negative coverage; Review annotation completeness
+temporal_lobe_involvement,2810,164,164,0,2646,809960,100.0,94.16370106761566,0.9851455688476562,164,Review confirmed negative coverage; Review annotation completeness

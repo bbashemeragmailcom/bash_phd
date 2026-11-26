@@ -1,0 +1,10 @@
+source_project,split,slices,patients
+LBH,test,169,169
+LBH,train,796,796
+LBH,val,170,170
+MBRR,test,153,153
+MBRR,train,706,706
+MBRR,val,155,155
+MLRR,test,275,275
+MLRR,train,1308,1308
+MLRR,val,266,266
