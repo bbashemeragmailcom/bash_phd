@@ -1,9 +1,9 @@
 .env
 .history/
-labelbox_export/
 stroke_dataset/
 venv/
 .ipynb_checkpoints/
 TransUNet/
 outputs/
 *.zip
+.DS_Store
